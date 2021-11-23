@@ -10,7 +10,6 @@
 
 ## I'd love to have a conversation:
 [<img align="left" alt="holisitc_developer" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-<br/>
 
 [<img align="left" with="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
