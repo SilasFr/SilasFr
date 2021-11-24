@@ -1,6 +1,6 @@
 # Hello World, I'm Silas 👋
 
-<img align="right" alt="GIF" src="./coding.gif" width="500" height="320" />
+<img border-radius:5px; align="right" alt="GIF" src="./coding.gif" width="500" height="320" />
 
 - 🌱 I’m currently learning React, Node and Postgree
 - 👯 I’m looking to collaborate on open source
